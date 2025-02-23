@@ -26,13 +26,10 @@ This project is developed as part of the CS 330 - Computational Graphics and Vis
 
 ### File Structure
 
-ViewManager.h / ViewManager.cpp – Handles camera movement, input processing, and projection toggling.
-
-SceneManager.h / SceneManager.cpp – Manages scene rendering, textures, and lighting.
-
-ShapeMeshes.h / ShapeMeshes.cpp – Contains custom and predefined 3D object meshes.
-
-ShaderManager.cpp – Handles shader programs and uniform values.
+* ViewManager.h / ViewManager.cpp – Handles camera movement, input processing, and projection toggling.
+* SceneManager.h / SceneManager.cpp – Manages scene rendering, textures, and lighting.
+* ShapeMeshes.h / ShapeMeshes.cpp – Contains custom and predefined 3D object meshes.
+* ShaderManager.cpp – Handles shader programs and uniform values.
 
 ### Installation & Setup
 
